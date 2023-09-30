@@ -6,7 +6,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #030303;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -36,7 +36,7 @@ body {
 }
 
 .board h1 {
-  color: #eee;
+  color: #ebd9d9;
   margin-bottom: 16px;
 }
 
@@ -44,8 +44,8 @@ body {
   padding: 8px 12px;
   margin: 25px;
   background: transparent;
-  border: 2px solid #eee;
-  color: #eee;
+  border: 2px solid #f3eeee;
+  color: #e6f0f0;
   width: 100px;
   border-radius: 5px;
   transition: 0.2s;
@@ -98,7 +98,7 @@ body {
 }
 
 .winner .text {
-  background: #111;
+  background: #020202;
   height: 300px;
   width: 320px;
   border: 2px solid #eee;
@@ -113,7 +113,7 @@ body {
 .winner .win {
   margin: 0 auto;
   width: fit-content;
-  border: 2px solid #eee;
+  border: 2px solid #04eec7;
   border-radius: 10px;
   display: flex;
   gap: 15px;
@@ -122,7 +122,7 @@ body {
 .square {
   width: 100px;
   height: 100px;
-  border: 2px solid #eee;
+  border: 2px solid #05f0c9;
   border-radius: 5px;
   display: grid;
   place-items: center;

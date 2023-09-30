@@ -56,8 +56,8 @@ export const App = () => {
   return (
     <>
       <main className="board">
-        <h1>tic tac toe</h1>
-        <button onClick={resetGame}>Reset del juego</button>
+        <h1>TRES EN RAYA</h1>
+        <button onClick={resetGame}>Reniciar el Juego</button>
         <section className="game">
           {board.map((_, index) => {
             return (

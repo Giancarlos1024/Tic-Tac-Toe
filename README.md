@@ -1,4 +1,2 @@
-Juego de el gato y raton, 3 en raya.
-Con react curso de midudev
--Persistencia de datos
--useState
+Proyecto Juego Tic Tac Toe
+Un gusto compartirte este juego compañero.
